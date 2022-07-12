@@ -1,0 +1,35 @@
+@media(max-width:575px){
+    .height h1 {
+        color: red;
+        font-size: 35px;
+        margin-bottom: 25px 0;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        display: inline-block;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+
+    .height{
+        margin-top: 30px;
+        text-align: center;
+        padding-bottom: 50px;   
+    }
+    .phone {
+        display: none;
+  
+    }
+    .phone_img{
+        display:inherit;
+        text-align: center;
+    }
+    .phone_img img{
+        width: 180px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+     
+  
+
+}
